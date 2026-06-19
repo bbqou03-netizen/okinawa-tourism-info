@@ -1,0 +1,11 @@
+{
+  "name": "okinawa-tourism-info",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/auto-collect-and-serve.mjs",
+    "serve:static": "python3 -m http.server 4173",
+    "update:data": "node scripts/update-tourism-data.mjs"
+  }
+}

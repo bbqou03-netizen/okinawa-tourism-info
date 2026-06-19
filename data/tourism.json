@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "updatedAt": "2026-06-14",
+    "sourceCount": 3
+  },
+  "places": [
+    {
+      "id": "churaumi-aquarium",
+      "category": "nature",
+      "area": "本部町",
+      "title": {
+        "ja": "沖縄美ら海水族館",
+        "en": "Okinawa Churaumi Aquarium",
+        "zh": "冲绳美丽海水族馆",
+        "ko": "오키나와 추라우미 수족관"
+      },
+      "summary": {
+        "ja": "大水槽や海洋生物の展示で知られる北部の代表的スポット。海洋博公園と合わせて一日楽しめます。",
+        "en": "A northern Okinawa landmark known for its large tank and marine life exhibits, easy to pair with Ocean Expo Park.",
+        "zh": "位于冲绳北部的代表景点，以大型水槽和海洋生物展示闻名，可与海洋博公园一起游览。",
+        "ko": "대형 수조와 해양 생물 전시로 알려진 북부 대표 명소이며 해양박공원과 함께 즐기기 좋습니다."
+      },
+      "tags": [
+        "aquarium",
+        "family",
+        "north"
+      ],
+      "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?auto=format&fit=crop&w=900&q=82",
+      "url": "https://churaumi.okinawa/"
+    },
+    {
+      "id": "shurijo-castle",
+      "category": "culture",
+      "area": "那覇市",
+      "title": {
+        "ja": "首里城公園",
+        "en": "Shurijo Castle Park",
+        "zh": "首里城公园",
+        "ko": "슈리성 공원"
+      },
+      "summary": {
+        "ja": "琉球王国の歴史に触れられる文化拠点。復興の歩みも含めて沖縄文化を学べます。",
+        "en": "A cultural anchor for Ryukyu Kingdom history, including the ongoing story of restoration.",
+        "zh": "了解琉球王国历史的重要文化据点，也能认识复兴过程。",
+        "ko": "류큐 왕국의 역사를 만날 수 있는 문화 거점이며 복원 과정까지 함께 배울 수 있습니다."
+      },
+      "tags": [
+        "history",
+        "naha",
+        "heritage"
+      ],
+      "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=900&q=82",
+      "url": "https://oki-park.jp/shurijo/"
+    },
+    {
+      "id": "kokusai-dori",
+      "category": "food",
+      "area": "那覇市",
+      "title": {
+        "ja": "国際通り",
+        "en": "Kokusai Street",
+        "zh": "国际通",
+        "ko": "고쿠사이 거리"
+      },
+      "summary": {
+        "ja": "飲食店、土産店、市場巡りを楽しめる那覇中心部の通り。到着日や最終日の散策にも便利です。",
+        "en": "A central Naha street for restaurants, souvenir shops, and market walks, ideal for arrival or final-day plans.",
+        "zh": "那霸市中心的街道，可享受餐厅、伴手礼店和市场散步，适合抵达日或最后一天安排。",
+        "ko": "음식점, 기념품점, 시장 산책을 즐길 수 있는 나하 중심 거리로 도착일이나 마지막 날에 편리합니다."
+      },
+      "tags": [
+        "naha",
+        "shopping",
+        "market"
+      ],
+      "image": "https://images.unsplash.com/photo-1554797589-7241bb691973?auto=format&fit=crop&w=900&q=82",
+      "url": "https://naha-kokusaidori.okinawa/"
+    },
+    {
+      "id": "miyako-blue",
+      "category": "nature",
+      "area": "宮古島市",
+      "title": {
+        "ja": "宮古ブルーの海",
+        "en": "Miyako Blue beaches",
+        "zh": "宫古蓝海滩",
+        "ko": "미야코 블루 바다"
+      },
+      "summary": {
+        "ja": "透明度の高い海と橋で結ばれた島々が魅力。ビーチ、ドライブ、夕景を組み合わせて楽しめます。",
+        "en": "Clear waters and bridge-linked islands make Miyako ideal for beaches, drives, and sunset viewpoints.",
+        "zh": "透明度极高的海水和由桥相连的岛屿是魅力所在，适合海滩、兜风和夕景行程。",
+        "ko": "투명한 바다와 다리로 이어진 섬들이 매력이며 해변, 드라이브, 석양 코스로 좋습니다."
+      },
+      "tags": [
+        "island",
+        "beach",
+        "drive"
+      ],
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=82",
+      "url": "https://www.city.miyakojima.lg.jp/kanko/"
+    }
+  ],
+  "updates": [
+    {
+      "id": "www-okinawastory-jp-news-notice-4628",
+      "category": "nature",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "en": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "zh": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "ko": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/notice/4628"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4675",
+      "category": "food",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
+        "en": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
+        "zh": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
+        "ko": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4675"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4533",
+      "category": "event",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.06.11 観光ニュース 沖縄週末イベント情報【6月13日〜14日】",
+        "en": "NEW 2026.06.11 観光ニュース 沖縄週末イベント情報【6月13日〜14日】",
+        "zh": "NEW 2026.06.11 観光ニュース 沖縄週末イベント情報【6月13日〜14日】",
+        "ko": "NEW 2026.06.11 観光ニュース 沖縄週末イベント情報【6月13日〜14日】"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4533"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4682",
+      "category": "nature",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
+        "en": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
+        "zh": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
+        "ko": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4682"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4677",
+      "category": "nature",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
+        "en": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
+        "zh": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
+        "ko": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4677"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4683",
+      "category": "event",
+      "date": "2026-06-14",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
+        "en": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
+        "zh": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
+        "ko": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4683"
+    },
+    {
+      "id": "visitokinawajapan-com-discover",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Discover",
+        "en": "Discover",
+        "zh": "Discover",
+        "ko": "Discover"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-okinawa-at-a-glance",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Okinawa at a Glance",
+        "en": "Okinawa at a Glance",
+        "zh": "Okinawa at a Glance",
+        "ko": "Okinawa at a Glance"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/okinawa-at-a-glance"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-overview-okinawa-history",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "History",
+        "en": "History",
+        "zh": "History",
+        "ko": "History"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/overview-okinawa-history"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-world-heritage-top",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "World Heritage",
+        "en": "World Heritage",
+        "zh": "World Heritage",
+        "ko": "World Heritage"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/world-heritage-top"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-traditional-culture",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Traditional Culture",
+        "en": "Traditional Culture",
+        "zh": "Traditional Culture",
+        "ko": "Traditional Culture"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/traditional-culture"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-food-and-longevity",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Food & Longevity",
+        "en": "Food & Longevity",
+        "zh": "Food & Longevity",
+        "ko": "Food & Longevity"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://visitokinawajapan.com/discover/food-and-longevity"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-guidebook",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "観光ガイドマップ（資料請求）",
+        "en": "観光ガイドマップ（資料請求）",
+        "zh": "観光ガイドマップ（資料請求）",
+        "ko": "観光ガイドマップ（資料請求）"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/guidebook/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-event",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "那覇市のイベント",
+        "en": "那覇市のイベント",
+        "zh": "那覇市のイベント",
+        "ko": "那覇市のイベント"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/event/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sightseeing",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "那覇市の観光",
+        "en": "那覇市の観光",
+        "zh": "那覇市の観光",
+        "ko": "那覇市の観光"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/sightseeing/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-welcome",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "ようこそ那覇市へ",
+        "en": "ようこそ那覇市へ",
+        "zh": "ようこそ那覇市へ",
+        "ko": "ようこそ那覇市へ"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/welcome/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-access-naha",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "沖縄本島から各島への交通手段",
+        "en": "沖縄本島から各島への交通手段",
+        "zh": "沖縄本島から各島への交通手段",
+        "ko": "沖縄本島から各島への交通手段"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-transportation",
+      "category": "event",
+      "date": "2026-06-13",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "沖縄の交通手段",
+        "en": "沖縄の交通手段",
+        "zh": "沖縄の交通手段",
+        "ko": "沖縄の交通手段"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/transportation/"
+    },
+    {
+      "id": "sample-hari",
+      "category": "event",
+      "date": "2026-05-01",
+      "sourceName": {
+        "ja": "サンプルデータ",
+        "en": "Sample data",
+        "zh": "示例数据",
+        "ko": "샘플 데이터"
+      },
+      "title": {
+        "ja": "那覇ハーリーなど季節イベントの確認",
+        "en": "Check seasonal events such as Naha Hari",
+        "zh": "确认那霸爬龙舟等季节活动",
+        "ko": "나하 하리 등 계절 이벤트 확인"
+      },
+      "summary": {
+        "ja": "開催日や会場は年ごとに変わる場合があります。公式情報で最新状況を確認してください。",
+        "en": "Dates and venues may change each year. Confirm the latest status with official sources.",
+        "zh": "举办日期和会场可能每年不同，请通过官方信息确认最新状况。",
+        "ko": "개최일과 장소는 해마다 달라질 수 있으니 공식 정보로 최신 상황을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/"
+    }
+  ]
+}

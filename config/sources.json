@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Visit Okinawa Japan",
+    "url": "https://visitokinawajapan.com/",
+    "type": "html",
+    "language": "en",
+    "legal": {
+      "preferredUse": "link-and-short-summary",
+      "notes": "Use only public links and short summaries. Do not copy article bodies or images."
+    }
+  },
+  {
+    "name": "Okinawa Story",
+    "url": "https://www.okinawastory.jp/",
+    "type": "html",
+    "language": "ja",
+    "legal": {
+      "preferredUse": "link-and-short-summary",
+      "notes": "Use only public links and short summaries. Do not copy article bodies or images."
+    }
+  },
+  {
+    "name": "Naha Navi",
+    "url": "https://www.naha-navi.or.jp/",
+    "type": "html",
+    "language": "ja",
+    "legal": {
+      "preferredUse": "link-and-short-summary",
+      "notes": "Use only public links and short summaries. Do not copy article bodies or images."
+    }
+  }
+]

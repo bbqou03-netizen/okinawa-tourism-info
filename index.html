@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Okinawa Guide | 沖縄観光情報</title>
+    <meta
+      name="description"
+      content="沖縄の観光スポット、イベント、文化、自然、旅のヒントを日本語・英語・中国語・韓国語で紹介する観光情報サイト。"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Main navigation">
+        <a class="brand" href="#top" aria-label="Okinawa Guide home">
+          <span class="brand-mark">OG</span>
+          <span>Okinawa Guide</span>
+        </a>
+        <div class="language-switcher" aria-label="Language selector">
+          <button class="lang-button active" data-lang="ja" type="button">日本語</button>
+          <button class="lang-button" data-lang="en" type="button">English</button>
+          <button class="lang-button" data-lang="zh" type="button">中文</button>
+          <button class="lang-button" data-lang="ko" type="button">한국어</button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-content">
+          <p class="eyebrow" data-i18n="heroEyebrow">Okinawa travel intelligence</p>
+          <h1 id="hero-title" data-i18n="heroTitle">沖縄の今を見つける観光ガイド</h1>
+          <p class="hero-copy" data-i18n="heroCopy">
+            海、島、歴史、食、イベント情報を多言語で整理し、更新スクリプトで新しい情報を反映できます。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#discover" data-i18n="exploreNow">観光情報を見る</a>
+            <a class="secondary-action" href="#automation" data-i18n="automationLink">自動更新の仕組み</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar-section" id="discover" aria-label="Search and filters">
+        <div class="toolbar">
+          <label class="search-box">
+            <span data-i18n="searchLabel">検索</span>
+            <input id="searchInput" type="search" placeholder="美ら海、水族館、祭り..." />
+          </label>
+          <div class="filter-group" aria-label="Category filters">
+            <button class="filter-button active" data-category="all" type="button" data-i18n="filterAll">すべて</button>
+            <button class="filter-button" data-category="nature" type="button" data-i18n="filterNature">自然</button>
+            <button class="filter-button" data-category="culture" type="button" data-i18n="filterCulture">文化</button>
+            <button class="filter-button" data-category="food" type="button" data-i18n="filterFood">食</button>
+            <button class="filter-button" data-category="event" type="button" data-i18n="filterEvent">イベント</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="featuredEyebrow">Featured</p>
+          <h2 data-i18n="featuredTitle">おすすめ観光情報</h2>
+          <p data-i18n="featuredCopy">定番スポットから季節の話題まで、旅行者が比較しやすい形で表示します。</p>
+        </div>
+        <div class="card-grid" id="cardGrid" aria-live="polite"></div>
+        <p class="empty-state hidden" id="emptyState" data-i18n="emptyState">条件に合う観光情報がありません。</p>
+      </section>
+
+      <section class="insight-band">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="eventsEyebrow">Live updates</p>
+          <h2 data-i18n="eventsTitle">新着・イベント</h2>
+          <p data-i18n="eventsCopy">外部ソースから取得した情報は、確認用リンク付きで表示されます。</p>
+        </div>
+        <div class="updates-list" id="updatesList"></div>
+      </section>
+
+      <section class="planning-band">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="planEyebrow">Trip planning</p>
+          <h2 data-i18n="planTitle">旅の組み立て</h2>
+        </div>
+        <div class="plan-grid">
+          <article>
+            <h3 data-i18n="planOneTitle">初めての沖縄</h3>
+            <p data-i18n="planOneCopy">那覇、首里、北部の自然を組み合わせ、移動時間に余裕を持たせるルートがおすすめです。</p>
+          </article>
+          <article>
+            <h3 data-i18n="planTwoTitle">離島を楽しむ</h3>
+            <p data-i18n="planTwoCopy">天候や船・航空便の変更に備え、滞在日程に予備時間を入れて計画します。</p>
+          </article>
+          <article>
+            <h3 data-i18n="planThreeTitle">文化を深く知る</h3>
+            <p data-i18n="planThreeCopy">史跡、工芸、音楽、食文化をつなげると、沖縄らしさを立体的に体験できます。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="automation-band" id="automation">
+        <div>
+          <p class="eyebrow" data-i18n="automationEyebrow">Automation</p>
+          <h2 data-i18n="automationTitle">自動収集と更新</h2>
+          <p data-i18n="automationCopy">
+            更新スクリプトが観光関連ソースを巡回し、重複を避けてデータJSONを更新します。GitHub Actionsで毎日実行できます。
+          </p>
+        </div>
+        <div class="source-panel">
+          <h3 data-i18n="sourceTitle">データ状態</h3>
+          <dl>
+            <div>
+              <dt data-i18n="lastUpdated">最終更新</dt>
+              <dd id="lastUpdated">-</dd>
+            </div>
+            <div>
+              <dt data-i18n="sourceCount">登録ソース</dt>
+              <dd id="sourceCount">-</dd>
+            </div>
+          </dl>
+          <p class="source-note" id="collectStatus" data-i18n="collectUnavailable">ローカル自動収集サーバ未使用</p>
+          <button class="collect-button hidden" id="collectNowButton" type="button" data-i18n="collectNow">今すぐ収集</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p data-i18n="footerText">掲載内容は公式情報の確認リンクと合わせてご利用ください。</p>
+      <p class="footer-links">
+        <a href="./legal.html" data-i18n="legalLink">免責・著作権・削除依頼</a>
+      </p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
