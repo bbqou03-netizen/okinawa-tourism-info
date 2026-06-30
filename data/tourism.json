@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-06-30",
+    "updatedAt": "2026-07-01",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,54 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-important-4628",
+      "category": "nature",
+      "date": "2026-07-01",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "en": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "zh": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "ko": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/important/4628"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4696",
+      "category": "nature",
+      "date": "2026-07-01",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.01 観光ニュース 遊んで学べる！リニューアルしたやんばる森のおもちゃ美術館",
+        "en": "NEW 2026.07.01 観光ニュース 遊んで学べる！リニューアルしたやんばる森のおもちゃ美術館",
+        "zh": "NEW 2026.07.01 観光ニュース 遊んで学べる！リニューアルしたやんばる森のおもちゃ美術館",
+        "ko": "NEW 2026.07.01 観光ニュース 遊んで学べる！リニューアルしたやんばる森のおもちゃ美術館"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4696"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-3958",
       "category": "event",
@@ -773,54 +821,6 @@
         "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
       },
       "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sitepage-transportation",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "沖縄の交通手段",
-        "en": "沖縄の交通手段",
-        "zh": "沖縄の交通手段",
-        "ko": "沖縄の交通手段"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://www.naha-navi.or.jp/sitepage/transportation/"
-    },
-    {
-      "id": "sample-hari",
-      "category": "event",
-      "date": "2026-05-01",
-      "sourceName": {
-        "ja": "サンプルデータ",
-        "en": "Sample data",
-        "zh": "示例数据",
-        "ko": "샘플 데이터"
-      },
-      "title": {
-        "ja": "那覇ハーリーなど季節イベントの確認",
-        "en": "Check seasonal events such as Naha Hari",
-        "zh": "确认那霸爬龙舟等季节活动",
-        "ko": "나하 하리 등 계절 이벤트 확인"
-      },
-      "summary": {
-        "ja": "開催日や会場は年ごとに変わる場合があります。公式情報で最新状況を確認してください。",
-        "en": "Dates and venues may change each year. Confirm the latest status with official sources.",
-        "zh": "举办日期和会场可能每年不同，请通过官方信息确认最新状况。",
-        "ko": "개최일과 장소는 해마다 달라질 수 있으니 공식 정보로 최신 상황을 확인해 주세요."
-      },
-      "url": "https://www.naha-navi.or.jp/"
     }
   ]
 }
