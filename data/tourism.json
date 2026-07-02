@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-02",
+    "updatedAt": "2026-07-03",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,78 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-notice-1082",
+      "category": "nature",
+      "date": "2026-07-03",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "en": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "zh": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "ko": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/notice/1082"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-welcome",
+      "category": "nature",
+      "date": "2026-07-03",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "ようこそ那覇市へ",
+        "en": "ようこそ那覇市へ",
+        "zh": "ようこそ那覇市へ",
+        "ko": "ようこそ那覇市へ"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/welcome/"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-access-naha",
+      "category": "nature",
+      "date": "2026-07-03",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "沖縄本島から各島への交通手段",
+        "en": "沖縄本島から各島への交通手段",
+        "zh": "沖縄本島から各島への交通手段",
+        "ko": "沖縄本島から各島への交通手段"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
+    },
     {
       "id": "www-okinawastory-jp-news-notice-4695",
       "category": "nature",
@@ -749,78 +821,6 @@
         "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
       },
       "url": "https://visitokinawajapan.com/discover/food-and-longevity"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sitepage-guidebook",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "観光ガイドマップ（資料請求）",
-        "en": "観光ガイドマップ（資料請求）",
-        "zh": "観光ガイドマップ（資料請求）",
-        "ko": "観光ガイドマップ（資料請求）"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://www.naha-navi.or.jp/sitepage/guidebook/"
-    },
-    {
-      "id": "www-naha-navi-or-jp-event",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "那覇市のイベント",
-        "en": "那覇市のイベント",
-        "zh": "那覇市のイベント",
-        "ko": "那覇市のイベント"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://www.naha-navi.or.jp/event/"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sightseeing",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "那覇市の観光",
-        "en": "那覇市の観光",
-        "zh": "那覇市の観光",
-        "ko": "那覇市の観光"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://www.naha-navi.or.jp/sightseeing/"
     }
   ]
 }
