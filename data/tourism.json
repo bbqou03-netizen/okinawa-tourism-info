@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-04",
+    "updatedAt": "2026-07-05",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,78 @@
     }
   ],
   "updates": [
+    {
+      "id": "visitokinawajapan-com-discover-world-heritage-top",
+      "category": "culture",
+      "date": "2026-07-05",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "World Heritage",
+        "en": "World Heritage",
+        "zh": "World Heritage",
+        "ko": "World Heritage"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/world-heritage-top"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-traditional-culture",
+      "category": "culture",
+      "date": "2026-07-05",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Traditional Culture",
+        "en": "Traditional Culture",
+        "zh": "Traditional Culture",
+        "ko": "Traditional Culture"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/traditional-culture"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-food-and-longevity",
+      "category": "food",
+      "date": "2026-07-05",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Food & Longevity",
+        "en": "Food & Longevity",
+        "zh": "Food & Longevity",
+        "ko": "Food & Longevity"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/food-and-longevity"
+    },
     {
       "id": "www-naha-navi-or-jp-sitepage-guidebook",
       "category": "nature",
@@ -749,78 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4683"
-    },
-    {
-      "id": "visitokinawajapan-com-discover",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Discover",
-        "en": "Discover",
-        "zh": "Discover",
-        "ko": "Discover"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://visitokinawajapan.com/discover/"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-okinawa-at-a-glance",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Okinawa at a Glance",
-        "en": "Okinawa at a Glance",
-        "zh": "Okinawa at a Glance",
-        "ko": "Okinawa at a Glance"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://visitokinawajapan.com/discover/okinawa-at-a-glance"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-overview-okinawa-history",
-      "category": "event",
-      "date": "2026-06-13",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "History",
-        "en": "History",
-        "zh": "History",
-        "ko": "History"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "zh": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "ko": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。"
-      },
-      "url": "https://visitokinawajapan.com/discover/overview-okinawa-history"
     }
   ]
 }
