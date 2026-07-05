@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-05",
+    "updatedAt": "2026-07-06",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,102 @@
     }
   ],
   "updates": [
+    {
+      "id": "visitokinawajapan-com-discover",
+      "category": "nature",
+      "date": "2026-07-06",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Discover",
+        "en": "Discover",
+        "zh": "Discover",
+        "ko": "Discover"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-okinawa-at-a-glance",
+      "category": "nature",
+      "date": "2026-07-06",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "Okinawa at a Glance",
+        "en": "Okinawa at a Glance",
+        "zh": "Okinawa at a Glance",
+        "ko": "Okinawa at a Glance"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/okinawa-at-a-glance"
+    },
+    {
+      "id": "visitokinawajapan-com-discover-overview-okinawa-history",
+      "category": "culture",
+      "date": "2026-07-06",
+      "sourceName": {
+        "ja": "Visit Okinawa Japan",
+        "en": "Visit Okinawa Japan",
+        "zh": "Visit Okinawa Japan",
+        "ko": "Visit Okinawa Japan"
+      },
+      "title": {
+        "ja": "History",
+        "en": "History",
+        "zh": "History",
+        "ko": "History"
+      },
+      "summary": {
+        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
+        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://visitokinawajapan.com/discover/overview-okinawa-history"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4694",
+      "category": "nature",
+      "date": "2026-07-06",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.06 観光ニュース 沖縄のニューオープンスポット 2026年5月",
+        "en": "NEW 2026.07.06 観光ニュース 沖縄のニューオープンスポット 2026年5月",
+        "zh": "NEW 2026.07.06 観光ニュース 沖縄のニューオープンスポット 2026年5月",
+        "ko": "NEW 2026.07.06 観光ニュース 沖縄のニューオープンスポット 2026年5月"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4694"
+    },
     {
       "id": "visitokinawajapan-com-discover-world-heritage-top",
       "category": "culture",
@@ -725,102 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/notice/4628"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4675",
-      "category": "food",
-      "date": "2026-06-14",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
-        "en": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
-        "zh": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介",
-        "ko": "NEW 2026.06.12 観光ニュース 父の日に行きたい！沖縄のおすすめグルメスポットを紹介"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4675"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4682",
-      "category": "nature",
-      "date": "2026-06-14",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
-        "en": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
-        "zh": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて",
-        "ko": "NEW 2026.06.08 観光ニュース 連載・沖縄こころの旅 | 豊見城市ウージ染めに魅せられて"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4682"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4677",
-      "category": "nature",
-      "date": "2026-06-14",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
-        "en": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
-        "zh": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）",
-        "ko": "2026.06.03 観光ニュース 【今月の沖縄そば】沖縄市・コザ一番街｜796（ナンクル）"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4677"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4683",
-      "category": "event",
-      "date": "2026-06-14",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
-        "en": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
-        "zh": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！",
-        "ko": "2026.06.01 観光ニュース 沖縄の伝統行事「ハーリー」とは？迫力のみどころを紹介！"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4683"
     }
   ]
 }
