@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-09",
+    "updatedAt": "2026-07-10",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,30 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-3953",
+      "category": "event",
+      "date": "2026-07-10",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.09 観光ニュース 世界自然遺産登録５周年！沖縄で開催の注目イベント！",
+        "en": "NEW 2026.07.09 観光ニュース 世界自然遺産登録５周年！沖縄で開催の注目イベント！",
+        "zh": "NEW 2026.07.09 観光ニュース 世界自然遺産登録５周年！沖縄で開催の注目イベント！",
+        "ko": "NEW 2026.07.09 観光ニュース 世界自然遺産登録５周年！沖縄で開催の注目イベント！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/3953"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-4680",
       "category": "nature",
@@ -439,30 +463,6 @@
       "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
     },
     {
-      "id": "www-okinawastory-jp-news-notice-4695",
-      "category": "nature",
-      "date": "2026-07-02",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
-        "en": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
-        "zh": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
-        "ko": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/notice/4695"
-    },
-    {
       "id": "www-naha-navi-or-jp-sitepage-transportation",
       "category": "nature",
       "date": "2026-07-02",
@@ -485,6 +485,30 @@
         "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.naha-navi.or.jp/sitepage/transportation/"
+    },
+    {
+      "id": "www-okinawastory-jp-news-notice-4695",
+      "category": "nature",
+      "date": "2026-07-02",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
+        "en": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
+        "zh": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版",
+        "ko": "NEW 2026.07.01 お知らせ 沖縄の海を安全に楽しむため気を付けたいこと｜2026年版"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/notice/4695"
     },
     {
       "id": "www-okinawastory-jp-news-tourism-4696",
@@ -797,30 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4198"
-    },
-    {
-      "id": "www-okinawastory-jp-news-notice-4628",
-      "category": "nature",
-      "date": "2026-06-14",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
-        "en": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
-        "zh": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
-        "ko": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/notice/4628"
     }
   ]
 }
