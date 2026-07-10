@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-10",
+    "updatedAt": "2026-07-11",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,30 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-4433",
+      "category": "event",
+      "date": "2026-07-11",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.10 観光ニュース 2026年 沖縄の夏祭り・イベントをエリア別にご紹介！",
+        "en": "NEW 2026.07.10 観光ニュース 2026年 沖縄の夏祭り・イベントをエリア別にご紹介！",
+        "zh": "NEW 2026.07.10 観光ニュース 2026年 沖縄の夏祭り・イベントをエリア別にご紹介！",
+        "ko": "NEW 2026.07.10 観光ニュース 2026年 沖縄の夏祭り・イベントをエリア別にご紹介！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4433"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-3953",
       "category": "event",
@@ -797,30 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4692"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4198",
-      "category": "nature",
-      "date": "2026-06-20",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.06.15 観光ニュース 戦後81年目となる6月23日｜沖縄の慰霊の日",
-        "en": "NEW 2026.06.15 観光ニュース 戦後81年目となる6月23日｜沖縄の慰霊の日",
-        "zh": "NEW 2026.06.15 観光ニュース 戦後81年目となる6月23日｜沖縄の慰霊の日",
-        "ko": "NEW 2026.06.15 観光ニュース 戦後81年目となる6月23日｜沖縄の慰霊の日"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4198"
     }
   ]
 }
