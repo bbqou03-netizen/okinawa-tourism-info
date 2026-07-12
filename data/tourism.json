@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-12",
+    "updatedAt": "2026-07-13",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,30 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-4701",
+      "category": "event",
+      "date": "2026-07-13",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.13 観光ニュース 夏休みは首里城公園へ！親子で楽しめるイベントがいっぱい！",
+        "en": "NEW 2026.07.13 観光ニュース 夏休みは首里城公園へ！親子で楽しめるイベントがいっぱい！",
+        "zh": "NEW 2026.07.13 観光ニュース 夏休みは首里城公園へ！親子で楽しめるイベントがいっぱい！",
+        "ko": "NEW 2026.07.13 観光ニュース 夏休みは首里城公園へ！親子で楽しめるイベントがいっぱい！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4701"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-4433",
       "category": "event",
@@ -415,30 +439,6 @@
       "url": "https://www.naha-navi.or.jp/sightseeing/"
     },
     {
-      "id": "www-okinawastory-jp-news-notice-1082",
-      "category": "nature",
-      "date": "2026-07-03",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
-        "en": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
-        "zh": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
-        "ko": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/notice/1082"
-    },
-    {
       "id": "www-naha-navi-or-jp-sitepage-welcome",
       "category": "nature",
       "date": "2026-07-03",
@@ -485,6 +485,30 @@
         "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
+    },
+    {
+      "id": "www-okinawastory-jp-news-notice-1082",
+      "category": "nature",
+      "date": "2026-07-03",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "en": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "zh": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！",
+        "ko": "NEW 2026.07.04 お知らせ 海の危険生物！ハブクラゲなどにご注意ください！"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/notice/1082"
     },
     {
       "id": "www-naha-navi-or-jp-sitepage-transportation",
@@ -797,30 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4690"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4692",
-      "category": "culture",
-      "date": "2026-06-20",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.06.17 観光ニュース 沖縄の文化に寄り添う。旅先で心がけたい観光マナー",
-        "en": "NEW 2026.06.17 観光ニュース 沖縄の文化に寄り添う。旅先で心がけたい観光マナー",
-        "zh": "NEW 2026.06.17 観光ニュース 沖縄の文化に寄り添う。旅先で心がけたい観光マナー",
-        "ko": "NEW 2026.06.17 観光ニュース 沖縄の文化に寄り添う。旅先で心がけたい観光マナー"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4692"
     }
   ]
 }
