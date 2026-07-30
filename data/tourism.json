@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-30",
+    "updatedAt": "2026-07-31",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,30 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-4448",
+      "category": "nature",
+      "date": "2026-07-31",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.07.31 観光ニュース 夏の那覇ランチにおすすめ！冷やし沖縄そば・冷やし麺5選",
+        "en": "NEW 2026.07.31 観光ニュース 夏の那覇ランチにおすすめ！冷やし沖縄そば・冷やし麺5選",
+        "zh": "NEW 2026.07.31 観光ニュース 夏の那覇ランチにおすすめ！冷やし沖縄そば・冷やし麺5選",
+        "ko": "NEW 2026.07.31 観光ニュース 夏の那覇ランチにおすすめ！冷やし沖縄そば・冷やし麺5選"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4448"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-3973",
       "category": "event",
@@ -797,30 +821,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/important/4628"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-3958",
-      "category": "event",
-      "date": "2026-06-30",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.06.30 観光ニュース 7月の沖縄旅行｜気温・服装・おすすめイベント情報などをチェック！",
-        "en": "NEW 2026.06.30 観光ニュース 7月の沖縄旅行｜気温・服装・おすすめイベント情報などをチェック！",
-        "zh": "NEW 2026.06.30 観光ニュース 7月の沖縄旅行｜気温・服装・おすすめイベント情報などをチェック！",
-        "ko": "NEW 2026.06.30 観光ニュース 7月の沖縄旅行｜気温・服装・おすすめイベント情報などをチェック！"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/3958"
     }
   ]
 }
