@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-15",
+    "updatedAt": "2026-08-16",
     "sourceCount": 3
   },
   "places": [
@@ -102,6 +102,30 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-naha-navi-or-jp-sitepage-access-naha",
+      "category": "nature",
+      "date": "2026-08-16",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "沖縄本島から各島への交通手段",
+        "en": "沖縄本島から各島への交通手段",
+        "zh": "沖縄本島から各島への交通手段",
+        "ko": "沖縄本島から各島への交通手段"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-4714",
       "category": "nature",
@@ -797,30 +821,6 @@
         "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.naha-navi.or.jp/sightseeing/"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sitepage-welcome",
-      "category": "nature",
-      "date": "2026-07-03",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "ようこそ那覇市へ",
-        "en": "ようこそ那覇市へ",
-        "zh": "ようこそ那覇市へ",
-        "ko": "ようこそ那覇市へ"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
-        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.naha-navi.or.jp/sitepage/welcome/"
     }
   ]
 }
