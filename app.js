@@ -8,11 +8,14 @@ const state = {
 
 const i18n = {
   ja: {
-    heroEyebrow: "Okinawa travel intelligence",
+    heroEyebrow: "沖縄を旅する",
     heroTitle: "沖縄の今を見つける観光ガイド",
     heroCopy: "海、島、歴史、食、イベント情報を多言語で整理し、更新スクリプトで新しい情報を反映できます。",
     exploreNow: "観光情報を見る",
     automationLink: "自動更新の仕組み",
+    spotCountLabel: "観光コンテンツ",
+    areaCountLabel: "エリアガイド",
+    languageCountLabel: "対応言語",
     searchLabel: "検索",
     filterAll: "すべて",
     filterNature: "自然",
@@ -23,6 +26,9 @@ const i18n = {
     featuredTitle: "おすすめ観光情報",
     featuredCopy: "定番スポットから季節の話題まで、旅行者が比較しやすい形で表示します。",
     emptyState: "条件に合う観光情報がありません。",
+    areaEyebrow: "Area guide",
+    areaTitle: "エリア別に探す",
+    areaCopy: "那覇、北部、南部、離島の特徴を見比べて、旅の方向性を決められます。",
     eventsEyebrow: "Live updates",
     eventsTitle: "新着・イベント",
     eventsCopy: "外部ソースから取得した情報は、確認用リンク付きで表示されます。",
@@ -55,6 +61,9 @@ const i18n = {
     heroCopy: "Beaches, islands, history, food, and events organized in four languages with a refresh script for new information.",
     exploreNow: "Explore",
     automationLink: "Automation",
+    spotCountLabel: "Travel items",
+    areaCountLabel: "Area guides",
+    languageCountLabel: "Languages",
     searchLabel: "Search",
     filterAll: "All",
     filterNature: "Nature",
@@ -65,6 +74,9 @@ const i18n = {
     featuredTitle: "Recommended travel ideas",
     featuredCopy: "Classic sights and seasonal updates are structured for easy comparison.",
     emptyState: "No travel information matches your filters.",
+    areaEyebrow: "Area guide",
+    areaTitle: "Explore by area",
+    areaCopy: "Compare Naha, the north, the south, and outer islands to choose the right direction for your trip.",
     eventsEyebrow: "Live updates",
     eventsTitle: "News and events",
     eventsCopy: "Collected items include source links for confirmation.",
@@ -97,6 +109,9 @@ const i18n = {
     heroCopy: "以四种语言整理海滩、离岛、历史、美食和活动信息，并可通过更新脚本反映新内容。",
     exploreNow: "查看景点",
     automationLink: "自动更新",
+    spotCountLabel: "旅游内容",
+    areaCountLabel: "地区指南",
+    languageCountLabel: "支持语言",
     searchLabel: "搜索",
     filterAll: "全部",
     filterNature: "自然",
@@ -107,6 +122,9 @@ const i18n = {
     featuredTitle: "推荐观光信息",
     featuredCopy: "从经典景点到季节话题，信息以便于比较的方式呈现。",
     emptyState: "没有符合条件的观光信息。",
+    areaEyebrow: "Area guide",
+    areaTitle: "按地区查找",
+    areaCopy: "比较那霸、北部、南部和离岛的特色，决定适合自己的行程方向。",
     eventsEyebrow: "Live updates",
     eventsTitle: "最新消息与活动",
     eventsCopy: "从外部来源取得的信息会附上确认链接。",
@@ -139,6 +157,9 @@ const i18n = {
     heroCopy: "바다, 섬, 역사, 음식, 이벤트 정보를 네 가지 언어로 정리하고 업데이트 스크립트로 새 정보를 반영합니다.",
     exploreNow: "관광 정보 보기",
     automationLink: "자동 업데이트",
+    spotCountLabel: "관광 콘텐츠",
+    areaCountLabel: "지역 가이드",
+    languageCountLabel: "지원 언어",
     searchLabel: "검색",
     filterAll: "전체",
     filterNature: "자연",
@@ -149,6 +170,9 @@ const i18n = {
     featuredTitle: "추천 관광 정보",
     featuredCopy: "대표 명소부터 계절 소식까지 여행자가 비교하기 쉽게 보여줍니다.",
     emptyState: "조건에 맞는 관광 정보가 없습니다.",
+    areaEyebrow: "Area guide",
+    areaTitle: "지역별로 찾기",
+    areaCopy: "나하, 북부, 남부, 외딴섬의 특징을 비교해 여행 방향을 정할 수 있습니다.",
     eventsEyebrow: "Live updates",
     eventsTitle: "새 소식과 이벤트",
     eventsCopy: "외부 소스에서 수집한 정보는 확인 링크와 함께 표시됩니다.",
@@ -259,9 +283,36 @@ const renderUpdates = () => {
   `).join("");
 };
 
+const renderAreas = () => {
+  const grid = document.getElementById("areaGrid");
+  if (!grid) return;
+
+  grid.innerHTML = (state.data?.areas || []).map((item) => `
+    <article class="area-card">
+      <span class="area-marker">${text(item.title).slice(0, 2)}</span>
+      <h3>${text(item.title)}</h3>
+      <p>${text(item.summary)}</p>
+    </article>
+  `).join("");
+};
+
+const renderTips = () => {
+  const grid = document.getElementById("tipsGrid");
+  if (!grid) return;
+
+  grid.innerHTML = (state.data?.tips || []).map((item) => `
+    <article class="tip-card">
+      <h3>${text(item.title)}</h3>
+      <p>${text(item.summary)}</p>
+    </article>
+  `).join("");
+};
+
 const renderStatus = () => {
   document.getElementById("lastUpdated").textContent = state.data?.meta?.updatedAt || "-";
   document.getElementById("sourceCount").textContent = String(state.data?.meta?.sourceCount || 0);
+  document.getElementById("placeCount").textContent = String(state.data?.places?.length || 0);
+  document.getElementById("areaCount").textContent = String(state.data?.areas?.length || 0);
 };
 
 const renderCollectStatus = (status) => {
@@ -285,6 +336,8 @@ const renderCollectStatus = (status) => {
 const render = () => {
   if (!state.data) return;
   renderCards();
+  renderAreas();
+  renderTips();
   renderUpdates();
   renderStatus();
 };

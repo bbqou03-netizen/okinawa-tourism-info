@@ -113,9 +113,10 @@ button:hover,
   align-items: end;
   min-height: 74vh;
   padding: 120px 0 56px;
+  background-color: #075c73;
   background:
-    linear-gradient(90deg, rgba(14, 31, 43, 0.82), rgba(14, 31, 43, 0.5) 48%, rgba(14, 31, 43, 0.1)),
-    url("https://images.unsplash.com/photo-1590559899731-a382839e5549?auto=format&fit=crop&w=1800&q=85") center/cover;
+    linear-gradient(90deg, rgba(5, 34, 48, 0.86), rgba(5, 34, 48, 0.56) 48%, rgba(5, 34, 48, 0.08)),
+    url("./assets/okinawa-hero.jpg") center/cover;
   color: var(--white);
 }
 
@@ -170,6 +171,38 @@ h3 {
   font-size: 1.08rem;
 }
 
+.hero-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(110px, 150px));
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.hero-stats div {
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  border-radius: 8px;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+.hero-stats strong,
+.hero-stats span {
+  display: block;
+}
+
+.hero-stats strong {
+  font-size: 1.45rem;
+  line-height: 1;
+}
+
+.hero-stats span {
+  margin-top: 4px;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
 .secondary-action {
   background: rgba(255, 255, 255, 0.12);
   color: var(--white);
@@ -177,6 +210,7 @@ h3 {
 
 .toolbar-section,
 .content-band,
+.area-band,
 .insight-band,
 .planning-band,
 .automation-band {
@@ -215,6 +249,7 @@ h3 {
 }
 
 .content-band,
+.area-band,
 .insight-band,
 .planning-band,
 .automation-band {
@@ -293,11 +328,43 @@ h3 {
 
 .update-item,
 .plan-grid article,
+.area-card,
+.tip-card,
 .source-panel {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--white);
   padding: 18px;
+}
+
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.area-card {
+  display: grid;
+  gap: 10px;
+  align-content: start;
+}
+
+.area-marker {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border-radius: 8px;
+  background: #e9f6f4;
+  color: var(--reef-dark);
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+.area-card p,
+.tip-card p {
+  margin: 0;
+  color: var(--muted);
 }
 
 .update-item {
@@ -316,6 +383,17 @@ h3 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
+}
+
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.tip-card {
+  border-left: 4px solid var(--reef);
 }
 
 .plan-grid p {
@@ -449,8 +527,15 @@ h3 {
   }
 
   .card-grid,
-  .plan-grid {
+  .area-grid,
+  .plan-grid,
+  .tips-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hero-stats {
+    grid-template-columns: 1fr;
+    max-width: 280px;
   }
 
   .hero {

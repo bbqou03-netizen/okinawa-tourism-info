@@ -8,6 +8,7 @@
       name="description"
       content="沖縄の観光スポット、イベント、文化、自然、旅のヒントを日本語・英語・中国語・韓国語で紹介する観光情報サイト。"
     />
+    <link rel="preload" as="image" href="./assets/okinawa-hero.jpg" fetchpriority="high" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -29,7 +30,7 @@
     <main id="top">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-content">
-          <p class="eyebrow" data-i18n="heroEyebrow">Okinawa travel intelligence</p>
+          <p class="eyebrow" data-i18n="heroEyebrow">沖縄を旅する</p>
           <h1 id="hero-title" data-i18n="heroTitle">沖縄の今を見つける観光ガイド</h1>
           <p class="hero-copy" data-i18n="heroCopy">
             海、島、歴史、食、イベント情報を多言語で整理し、更新スクリプトで新しい情報を反映できます。
@@ -37,6 +38,20 @@
           <div class="hero-actions">
             <a class="primary-action" href="#discover" data-i18n="exploreNow">観光情報を見る</a>
             <a class="secondary-action" href="#automation" data-i18n="automationLink">自動更新の仕組み</a>
+          </div>
+          <div class="hero-stats" aria-label="Site content summary">
+            <div>
+              <strong id="placeCount">-</strong>
+              <span data-i18n="spotCountLabel">観光コンテンツ</span>
+            </div>
+            <div>
+              <strong id="areaCount">-</strong>
+              <span data-i18n="areaCountLabel">エリアガイド</span>
+            </div>
+            <div>
+              <strong>4</strong>
+              <span data-i18n="languageCountLabel">対応言語</span>
+            </div>
           </div>
         </div>
       </section>
@@ -67,6 +82,15 @@
         <p class="empty-state hidden" id="emptyState" data-i18n="emptyState">条件に合う観光情報がありません。</p>
       </section>
 
+      <section class="area-band">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="areaEyebrow">Area guide</p>
+          <h2 data-i18n="areaTitle">エリア別に探す</h2>
+          <p data-i18n="areaCopy">那覇、北部、南部、離島の特徴を見比べて、旅の方向性を決められます。</p>
+        </div>
+        <div class="area-grid" id="areaGrid"></div>
+      </section>
+
       <section class="insight-band">
         <div class="section-heading">
           <p class="eyebrow" data-i18n="eventsEyebrow">Live updates</p>
@@ -95,6 +119,7 @@
             <p data-i18n="planThreeCopy">史跡、工芸、音楽、食文化をつなげると、沖縄らしさを立体的に体験できます。</p>
           </article>
         </div>
+        <div class="tips-grid" id="tipsGrid"></div>
       </section>
 
       <section class="automation-band" id="automation">

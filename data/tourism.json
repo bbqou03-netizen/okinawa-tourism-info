@@ -99,6 +99,331 @@
       ],
       "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=82",
       "url": "https://www.city.miyakojima.lg.jp/kanko/"
+    },
+    {
+      "id": "kerama-islands",
+      "category": "nature",
+      "area": "慶良間諸島",
+      "title": {
+        "ja": "慶良間諸島",
+        "en": "Kerama Islands",
+        "zh": "庆良间群岛",
+        "ko": "게라마 제도"
+      },
+      "summary": {
+        "ja": "那覇から船で向かえる離島エリア。透明度の高い海、シュノーケリング、島時間を楽しみたい人に向いています。",
+        "en": "An island group reached by ferry from Naha, ideal for clear-water snorkeling, beaches, and slower island time.",
+        "zh": "可从那霸搭船前往的离岛区域，适合享受清澈海水、浮潜和悠闲岛屿时光。",
+        "ko": "나하에서 배로 갈 수 있는 섬 지역으로 맑은 바다, 스노클링, 여유로운 섬 시간을 즐기기 좋습니다."
+      },
+      "tags": [
+        "island",
+        "snorkeling",
+        "marine"
+      ],
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=900&q=82",
+      "url": "https://visitokinawajapan.com/destinations/kerama-islands/"
+    },
+    {
+      "id": "sefa-utaki",
+      "category": "culture",
+      "area": "南城市",
+      "title": {
+        "ja": "斎場御嶽",
+        "en": "Sefa-utaki",
+        "zh": "斋场御岳",
+        "ko": "세이화우타키"
+      },
+      "summary": {
+        "ja": "琉球王国ゆかりの聖地として知られる世界文化遺産。静かに歩き、祈りの場への配慮を大切にしたい場所です。",
+        "en": "A sacred Ryukyu Kingdom site and World Heritage area where visitors should walk quietly and respect the worship space.",
+        "zh": "与琉球王国有关的圣地和世界文化遗产，参观时请安静行走并尊重祈祷空间。",
+        "ko": "류큐 왕국과 관련된 성지이자 세계문화유산으로, 조용히 걷고 기도의 공간을 존중해야 하는 곳입니다."
+      },
+      "tags": [
+        "world heritage",
+        "sacred site",
+        "history"
+      ],
+      "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=900&q=82",
+      "url": "https://sefa.okinawa/"
+    },
+    {
+      "id": "cape-manzamo",
+      "category": "nature",
+      "area": "恩納村",
+      "title": {
+        "ja": "万座毛",
+        "en": "Cape Manzamo",
+        "zh": "万座毛",
+        "ko": "만자모"
+      },
+      "summary": {
+        "ja": "東シナ海に面した断崖と草地が印象的な景勝地。西海岸ドライブや夕景スポットとして組み込みやすい場所です。",
+        "en": "A dramatic cliff and grassy viewpoint on the East China Sea, easy to add to a west-coast drive or sunset route.",
+        "zh": "面向东海的断崖与草地景观，非常适合加入西海岸兜风或夕景行程。",
+        "ko": "동중국해를 마주한 절벽과 초지가 인상적인 명소로 서해안 드라이브와 석양 코스에 넣기 좋습니다."
+      },
+      "tags": [
+        "viewpoint",
+        "sunset",
+        "west coast"
+      ],
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=82",
+      "url": "https://www.vill.onna.okinawa.jp/"
+    },
+    {
+      "id": "okinawa-world",
+      "category": "culture",
+      "area": "南城市",
+      "title": {
+        "ja": "おきなわワールド・玉泉洞",
+        "en": "Okinawa World and Gyokusendo Cave",
+        "zh": "冲绳世界・玉泉洞",
+        "ko": "오키나와 월드・교쿠센도 동굴"
+      },
+      "summary": {
+        "ja": "鍾乳洞、琉球文化、工芸体験をまとめて楽しめる南部の定番スポット。雨の日の候補にもなります。",
+        "en": "A southern Okinawa favorite combining a limestone cave, Ryukyu culture, and craft experiences, including rainy-day plans.",
+        "zh": "可一次体验钟乳洞、琉球文化和工艺活动的南部经典景点，也适合作为雨天行程。",
+        "ko": "종유동굴, 류큐 문화, 공예 체험을 함께 즐길 수 있는 남부 대표 명소이며 비 오는 날에도 좋습니다."
+      },
+      "tags": [
+        "cave",
+        "craft",
+        "rainy day"
+      ],
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=82",
+      "url": "https://www.gyokusendo.co.jp/okinawaworld/"
+    },
+    {
+      "id": "tsuboya-yachimun-street",
+      "category": "culture",
+      "area": "那覇市",
+      "title": {
+        "ja": "壺屋やちむん通り",
+        "en": "Tsuboya Yachimun Street",
+        "zh": "壶屋陶器街",
+        "ko": "쓰보야 야치문 거리"
+      },
+      "summary": {
+        "ja": "沖縄の焼き物に触れられる那覇中心部の散策エリア。カフェや器の買い物を組み合わせやすい通りです。",
+        "en": "A central Naha walking area for Okinawan pottery, small shops, galleries, and relaxed cafe stops.",
+        "zh": "位于那霸中心的陶器散步区，可结合器皿购物、艺廊和咖啡馆休息。",
+        "ko": "오키나와 도자기를 만날 수 있는 나하 중심 산책 구역으로 상점, 갤러리, 카페를 함께 즐기기 좋습니다."
+      },
+      "tags": [
+        "pottery",
+        "walking",
+        "naha"
+      ],
+      "image": "https://images.unsplash.com/photo-1493106819501-66d381c466f1?auto=format&fit=crop&w=900&q=82",
+      "url": "https://www.naha-navi.or.jp/sightseeing/"
+    },
+    {
+      "id": "okinawa-soba",
+      "category": "food",
+      "area": "沖縄全域",
+      "title": {
+        "ja": "沖縄そば",
+        "en": "Okinawa Soba",
+        "zh": "冲绳荞麦面",
+        "ko": "오키나와 소바"
+      },
+      "summary": {
+        "ja": "小麦麺とだし、三枚肉やソーキを合わせる沖縄の定番料理。地域や店ごとの違いを比べる楽しみがあります。",
+        "en": "A classic Okinawan noodle dish with wheat noodles, broth, and pork toppings, with regional and shop-by-shop differences.",
+        "zh": "冲绳经典面食，以小麦面、汤底、五花肉或排骨为特色，可比较各地区与店家的风味。",
+        "ko": "밀가루 면과 국물, 삼겹살이나 소키를 곁들이는 오키나와 대표 음식으로 지역과 가게마다 차이가 있습니다."
+      },
+      "tags": [
+        "noodles",
+        "local food",
+        "lunch"
+      ],
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=900&q=82",
+      "url": "https://visitokinawajapan.com/discover/food-and-longevity/"
+    },
+    {
+      "id": "kouri-island",
+      "category": "nature",
+      "area": "今帰仁村",
+      "title": {
+        "ja": "古宇利島",
+        "en": "Kouri Island",
+        "zh": "古宇利岛",
+        "ko": "고우리섬"
+      },
+      "summary": {
+        "ja": "古宇利大橋で渡る北部の小島。橋からの海景色、ビーチ、カフェ巡りを短時間で楽しめます。",
+        "en": "A small northern island reached by Kouri Bridge, known for sea views, beaches, and cafe stops.",
+        "zh": "经古宇利大桥前往的北部小岛，可轻松享受桥上蓝海、海滩与咖啡馆。",
+        "ko": "고우리대교로 건너는 북부의 작은 섬으로 바다 전망, 해변, 카페를 짧은 시간에 즐길 수 있습니다."
+      },
+      "tags": [
+        "bridge",
+        "beach",
+        "north"
+      ],
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=82",
+      "url": "https://www.nakijinson.jp/"
+    },
+    {
+      "id": "ishigaki-yaeyama",
+      "category": "nature",
+      "area": "石垣市・八重山",
+      "title": {
+        "ja": "石垣島・八重山の島々",
+        "en": "Ishigaki and the Yaeyama Islands",
+        "zh": "石垣岛与八重山诸岛",
+        "ko": "이시가키섬과 야에야마 제도"
+      },
+      "summary": {
+        "ja": "石垣島を拠点に竹富島、西表島、小浜島などへ広げられる離島旅。海、星空、マングローブ体験が魅力です。",
+        "en": "Use Ishigaki as a base for Taketomi, Iriomote, Kohama, and other islands with beaches, stars, and mangrove trips.",
+        "zh": "以石垣岛为据点，可延伸至竹富岛、西表岛、小滨岛等，体验海景、星空与红树林。",
+        "ko": "이시가키섬을 거점으로 다케토미, 이리오모테, 고하마 등으로 이어지는 섬 여행입니다."
+      },
+      "tags": [
+        "yaeyama",
+        "island hopping",
+        "mangrove"
+      ],
+      "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?auto=format&fit=crop&w=900&q=82",
+      "url": "https://visitokinawajapan.com/destinations/yaeyama-islands/"
+    },
+    {
+      "id": "eisa-festivals",
+      "category": "event",
+      "area": "沖縄全域",
+      "title": {
+        "ja": "エイサー・伝統行事",
+        "en": "Eisa and Traditional Festivals",
+        "zh": "太鼓舞与传统活动",
+        "ko": "에이사와 전통 행사"
+      },
+      "summary": {
+        "ja": "夏から秋にかけて各地で出会える沖縄の伝統芸能。開催日は年ごとに変わるため、直前に公式情報を確認します。",
+        "en": "Traditional Okinawan performances often seen from summer into autumn. Dates change, so confirm official details before visiting.",
+        "zh": "夏季至秋季常可看到的冲绳传统表演。举办日期每年不同，请出发前确认官方信息。",
+        "ko": "여름부터 가을까지 각지에서 만날 수 있는 오키나와 전통 공연입니다. 일정은 매년 달라 공식 정보를 확인해야 합니다."
+      },
+      "tags": [
+        "festival",
+        "performance",
+        "seasonal"
+      ],
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=82",
+      "url": "https://visitokinawajapan.com/discover/events/"
+    }
+  ],
+  "areas": [
+    {
+      "id": "naha",
+      "title": {
+        "ja": "那覇・首里",
+        "en": "Naha and Shuri",
+        "zh": "那霸・首里",
+        "ko": "나하・슈리"
+      },
+      "summary": {
+        "ja": "空港から動きやすく、国際通り、首里城、壺屋などを短時間で巡れます。",
+        "en": "Easy from the airport, with Kokusai Street, Shurijo, and Tsuboya pottery walks close together.",
+        "zh": "从机场移动方便，可短时间游览国际通、首里城和壶屋等区域。",
+        "ko": "공항에서 이동하기 쉽고 국제거리, 슈리성, 쓰보야 등을 짧은 시간에 둘러볼 수 있습니다."
+      }
+    },
+    {
+      "id": "north",
+      "title": {
+        "ja": "北部・やんばる",
+        "en": "Northern Okinawa and Yanbaru",
+        "zh": "北部・山原",
+        "ko": "북부・얀바루"
+      },
+      "summary": {
+        "ja": "美ら海水族館、古宇利島、森の体験を組み合わせる自然派ルートに向いています。",
+        "en": "Best for nature routes combining Churaumi Aquarium, Kouri Island, and forest experiences.",
+        "zh": "适合结合美丽海水族馆、古宇利岛和森林体验的自然路线。",
+        "ko": "추라우미 수족관, 고우리섬, 숲 체험을 조합하는 자연 코스에 좋습니다."
+      }
+    },
+    {
+      "id": "south",
+      "title": {
+        "ja": "南部・歴史文化",
+        "en": "Southern Okinawa and Heritage",
+        "zh": "南部・历史文化",
+        "ko": "남부・역사문화"
+      },
+      "summary": {
+        "ja": "斎場御嶽、おきなわワールド、海沿いカフェなど、文化と景色を合わせやすいエリアです。",
+        "en": "A good area for pairing Sefa-utaki, Okinawa World, coastal cafes, culture, and scenery.",
+        "zh": "可轻松结合斋场御岳、冲绳世界、海边咖啡馆等文化与景色。",
+        "ko": "세이화우타키, 오키나와 월드, 해변 카페 등 문화와 풍경을 함께 즐기기 좋은 지역입니다."
+      }
+    },
+    {
+      "id": "remote-islands",
+      "title": {
+        "ja": "離島",
+        "en": "Outer Islands",
+        "zh": "离岛",
+        "ko": "외딴섬"
+      },
+      "summary": {
+        "ja": "慶良間、宮古、八重山は海の色も過ごし方も違います。天候に合わせて余裕ある日程にします。",
+        "en": "Kerama, Miyako, and Yaeyama each offer different sea colors and rhythms. Build in weather buffers.",
+        "zh": "庆良间、宫古、八重山各有不同海色与节奏，建议为天气变化预留时间。",
+        "ko": "게라마, 미야코, 야에야마는 바다 색과 여행 리듬이 다르므로 날씨 여유를 두는 것이 좋습니다."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "id": "transport",
+      "title": {
+        "ja": "移動の考え方",
+        "en": "Getting around",
+        "zh": "交通安排",
+        "ko": "이동 계획"
+      },
+      "summary": {
+        "ja": "本島は車移動が便利ですが、那覇中心部は渋滞や駐車場も考慮します。離島は船・航空便の変更に注意します。",
+        "en": "A car is useful on the main island, but plan for Naha traffic and parking. Watch ferry and flight changes for islands.",
+        "zh": "本岛自驾方便，但那霸市中心需考虑塞车与停车。离岛需注意船班和航班变更。",
+        "ko": "본섬은 차량 이동이 편하지만 나하 중심부는 정체와 주차를 고려해야 합니다. 섬은 배와 항공편 변경에 주의하세요."
+      }
+    },
+    {
+      "id": "weather",
+      "title": {
+        "ja": "天気と海",
+        "en": "Weather and the sea",
+        "zh": "天气与海况",
+        "ko": "날씨와 바다"
+      },
+      "summary": {
+        "ja": "台風、強風、高波で予定が変わることがあります。海遊びは当日の遊泳可否と安全情報を確認します。",
+        "en": "Typhoons, wind, and waves can change plans. Check same-day swimming and safety information before marine activities.",
+        "zh": "台风、强风和高浪可能改变计划。海上活动前请确认当天是否可游泳和安全信息。",
+        "ko": "태풍, 강풍, 높은 파도로 일정이 바뀔 수 있습니다. 해양 활동 전 당일 수영 가능 여부와 안전 정보를 확인하세요."
+      }
+    },
+    {
+      "id": "manners",
+      "title": {
+        "ja": "文化への配慮",
+        "en": "Cultural respect",
+        "zh": "尊重文化",
+        "ko": "문화 존중"
+      },
+      "summary": {
+        "ja": "御嶽や拝所は祈りの場です。立入範囲、写真撮影、静かな見学など現地の案内を守ります。",
+        "en": "Utaki and worship sites are sacred places. Follow local guidance on access, photography, and quiet behavior.",
+        "zh": "御岳和祭祀场所是祈祷空间，请遵守进入范围、拍照和安静参观等当地指引。",
+        "ko": "우타키와 예배 장소는 기도의 공간입니다. 출입 범위, 촬영, 조용한 관람 등 현지 안내를 따르세요."
+      }
     }
   ],
   "updates": [
