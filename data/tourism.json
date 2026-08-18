@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-18",
+    "updatedAt": "2026-08-19",
     "sourceCount": 3
   },
   "places": [
@@ -427,6 +427,78 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-4713",
+      "category": "event",
+      "date": "2026-08-19",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "en": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "zh": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "ko": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4713"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4718",
+      "category": "nature",
+      "date": "2026-08-19",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.08.18 観光ニュース 親子で楽しむ！沖縄ならではの体験プログラム",
+        "en": "NEW 2026.08.18 観光ニュース 親子で楽しむ！沖縄ならではの体験プログラム",
+        "zh": "NEW 2026.08.18 観光ニュース 親子で楽しむ！沖縄ならではの体験プログラム",
+        "ko": "NEW 2026.08.18 観光ニュース 親子で楽しむ！沖縄ならではの体験プログラム"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4718"
+    },
+    {
+      "id": "www-naha-navi-or-jp-event",
+      "category": "event",
+      "date": "2026-08-19",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "那覇市のイベント",
+        "en": "那覇市のイベント",
+        "zh": "那覇市のイベント",
+        "ko": "那覇市のイベント"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/event/"
+    },
     {
       "id": "www-naha-navi-or-jp-sightseeing",
       "category": "nature",
@@ -1074,78 +1146,6 @@
         "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://visitokinawajapan.com/discover/world-heritage-top"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-traditional-culture",
-      "category": "culture",
-      "date": "2026-07-05",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Traditional Culture",
-        "en": "Traditional Culture",
-        "zh": "Traditional Culture",
-        "ko": "Traditional Culture"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
-        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://visitokinawajapan.com/discover/traditional-culture"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-food-and-longevity",
-      "category": "food",
-      "date": "2026-07-05",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Food & Longevity",
-        "en": "Food & Longevity",
-        "zh": "Food & Longevity",
-        "ko": "Food & Longevity"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
-        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://visitokinawajapan.com/discover/food-and-longevity"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sitepage-guidebook",
-      "category": "nature",
-      "date": "2026-07-04",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "観光ガイドマップ（資料請求）",
-        "en": "観光ガイドマップ（資料請求）",
-        "zh": "観光ガイドマップ（資料請求）",
-        "ko": "観光ガイドマップ（資料請求）"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
-        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.naha-navi.or.jp/sitepage/guidebook/"
     }
   ]
 }
