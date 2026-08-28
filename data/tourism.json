@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-27",
+    "updatedAt": "2026-08-28",
     "sourceCount": 3
   },
   "places": [
@@ -428,6 +428,78 @@
   ],
   "updates": [
     {
+      "id": "www-okinawastory-jp-news-notice-4628",
+      "category": "nature",
+      "date": "2026-08-28",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "en": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "zh": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について",
+        "ko": "2025.12.17 那覇空港 ターミナルビル１F接車帯供用開始について"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/notice/4628"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4720",
+      "category": "nature",
+      "date": "2026-08-28",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
+        "en": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
+        "zh": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
+        "ko": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4720"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4719",
+      "category": "food",
+      "date": "2026-08-28",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.08.27 観光ニュース 壺川駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
+        "en": "NEW 2026.08.27 観光ニュース 壺川駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
+        "zh": "NEW 2026.08.27 観光ニュース 壺川駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
+        "ko": "NEW 2026.08.27 観光ニュース 壺川駅周辺の観光＆グルメガイド│ゆいレール各駅巡り"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4719"
+    },
+    {
       "id": "www-okinawastory-jp-news-tourism-4716",
       "category": "nature",
       "date": "2026-08-25",
@@ -716,30 +788,6 @@
       "url": "https://www.okinawastory.jp/news/tourism/4222"
     },
     {
-      "id": "www-okinawastory-jp-news-tourism-4713",
-      "category": "event",
-      "date": "2026-08-19",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
-        "en": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
-        "zh": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
-        "ko": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4713"
-    },
-    {
       "id": "www-naha-navi-or-jp-event",
       "category": "event",
       "date": "2026-08-19",
@@ -762,6 +810,30 @@
         "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.naha-navi.or.jp/event/"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4713",
+      "category": "event",
+      "date": "2026-08-19",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "en": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "zh": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "ko": "NEW 2026.08.19 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4713"
     },
     {
       "id": "www-okinawastory-jp-news-tourism-4718",
@@ -1074,78 +1146,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4704"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4698",
-      "category": "food",
-      "date": "2026-07-24",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.07.24 観光ニュース 奥武山公園駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
-        "en": "NEW 2026.07.24 観光ニュース 奥武山公園駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
-        "zh": "NEW 2026.07.24 観光ニュース 奥武山公園駅周辺の観光＆グルメガイド│ゆいレール各駅巡り",
-        "ko": "NEW 2026.07.24 観光ニュース 奥武山公園駅周辺の観光＆グルメガイド│ゆいレール各駅巡り"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4698"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4700",
-      "category": "nature",
-      "date": "2026-07-23",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.07.22 観光ニュース 沖縄観光｜国際通り周辺テイクアウト",
-        "en": "NEW 2026.07.22 観光ニュース 沖縄観光｜国際通り周辺テイクアウト",
-        "zh": "NEW 2026.07.22 観光ニュース 沖縄観光｜国際通り周辺テイクアウト",
-        "ko": "NEW 2026.07.22 観光ニュース 沖縄観光｜国際通り周辺テイクアウト"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4700"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4702",
-      "category": "nature",
-      "date": "2026-07-20",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.07.20 観光ニュース 連載・沖縄こころの旅｜MIRAIアニメプロジェクト",
-        "en": "NEW 2026.07.20 観光ニュース 連載・沖縄こころの旅｜MIRAIアニメプロジェクト",
-        "zh": "NEW 2026.07.20 観光ニュース 連載・沖縄こころの旅｜MIRAIアニメプロジェクト",
-        "ko": "NEW 2026.07.20 観光ニュース 連載・沖縄こころの旅｜MIRAIアニメプロジェクト"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4702"
     }
   ]
 }
