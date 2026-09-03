@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-03",
+    "updatedAt": "2026-09-04",
     "sourceCount": 3
   },
   "places": [
@@ -427,6 +427,78 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-tourism-4722",
+      "category": "food",
+      "date": "2026-09-04",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.09.04 観光ニュース 沖縄旅行で食べたい朝ごはん！おすすめのお店をご紹介",
+        "en": "NEW 2026.09.04 観光ニュース 沖縄旅行で食べたい朝ごはん！おすすめのお店をご紹介",
+        "zh": "NEW 2026.09.04 観光ニュース 沖縄旅行で食べたい朝ごはん！おすすめのお店をご紹介",
+        "ko": "NEW 2026.09.04 観光ニュース 沖縄旅行で食べたい朝ごはん！おすすめのお店をご紹介"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4722"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4725",
+      "category": "food",
+      "date": "2026-09-04",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.09.03 観光ニュース 沖縄のおいしいを味わおう！島の恵みを楽しむグルメ旅",
+        "en": "NEW 2026.09.03 観光ニュース 沖縄のおいしいを味わおう！島の恵みを楽しむグルメ旅",
+        "zh": "NEW 2026.09.03 観光ニュース 沖縄のおいしいを味わおう！島の恵みを楽しむグルメ旅",
+        "ko": "NEW 2026.09.03 観光ニュース 沖縄のおいしいを味わおう！島の恵みを楽しむグルメ旅"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4725"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4533",
+      "category": "event",
+      "date": "2026-09-04",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.09.03 観光ニュース 沖縄週末イベント情報【9月5日〜6日】",
+        "en": "NEW 2026.09.03 観光ニュース 沖縄週末イベント情報【9月5日〜6日】",
+        "zh": "NEW 2026.09.03 観光ニュース 沖縄週末イベント情報【9月5日〜6日】",
+        "ko": "NEW 2026.09.03 観光ニュース 沖縄週末イベント情報【9月5日〜6日】"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4533"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-4009",
       "category": "event",
@@ -1074,78 +1146,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/important/4628"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4711",
-      "category": "nature",
-      "date": "2026-08-07",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.08.07 観光ニュース 沖縄のニューオープンスポット 2026年6月",
-        "en": "NEW 2026.08.07 観光ニュース 沖縄のニューオープンスポット 2026年6月",
-        "zh": "NEW 2026.08.07 観光ニュース 沖縄のニューオープンスポット 2026年6月",
-        "ko": "NEW 2026.08.07 観光ニュース 沖縄のニューオープンスポット 2026年6月"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4711"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4699",
-      "category": "nature",
-      "date": "2026-08-05",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.08.05 観光ニュース 【今月の沖縄そば】南城市の潮風とともに｜ くんなとぅ",
-        "en": "NEW 2026.08.05 観光ニュース 【今月の沖縄そば】南城市の潮風とともに｜ くんなとぅ",
-        "zh": "NEW 2026.08.05 観光ニュース 【今月の沖縄そば】南城市の潮風とともに｜ くんなとぅ",
-        "ko": "NEW 2026.08.05 観光ニュース 【今月の沖縄そば】南城市の潮風とともに｜ くんなとぅ"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4699"
-    },
-    {
-      "id": "www-okinawastory-jp-news-important-4686",
-      "category": "nature",
-      "date": "2026-08-04",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "2026.08.03 台風13号情報｜5日から7日頃は大荒れや大しけの見込み",
-        "en": "2026.08.03 台風13号情報｜5日から7日頃は大荒れや大しけの見込み",
-        "zh": "2026.08.03 台風13号情報｜5日から7日頃は大荒れや大しけの見込み",
-        "ko": "2026.08.03 台風13号情報｜5日から7日頃は大荒れや大しけの見込み"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/important/4686"
     }
   ]
 }
