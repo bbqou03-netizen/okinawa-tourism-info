@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-29",
+    "updatedAt": "2026-09-30",
     "sourceCount": 3
   },
   "places": [
@@ -428,6 +428,54 @@
   ],
   "updates": [
     {
+      "id": "www-okinawastory-jp-news-tourism-4713",
+      "category": "event",
+      "date": "2026-09-30",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2026.09.18 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "en": "2026.09.18 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "zh": "2026.09.18 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ",
+        "ko": "2026.09.18 観光ニュース 2026年シルバーウィークは沖縄へ！イベント情報まとめ"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4713"
+    },
+    {
+      "id": "www-naha-navi-or-jp-sitepage-guidebook",
+      "category": "nature",
+      "date": "2026-09-30",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "観光ガイドマップ（資料請求）",
+        "en": "観光ガイドマップ（資料請求）",
+        "zh": "観光ガイドマップ（資料請求）",
+        "ko": "観光ガイドマップ（資料請求）"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/sitepage/guidebook/"
+    },
+    {
       "id": "www-okinawastory-jp-news-tourism-4723",
       "category": "nature",
       "date": "2026-09-29",
@@ -572,30 +620,6 @@
       "url": "https://www.naha-navi.or.jp/sitepage/access-naha/"
     },
     {
-      "id": "www-okinawastory-jp-news-important-typhoon",
-      "category": "nature",
-      "date": "2026-09-26",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "2026.09.25 台風第26号情報",
-        "en": "2026.09.25 台風第26号情報",
-        "zh": "2026.09.25 台風第26号情報",
-        "ko": "2026.09.25 台風第26号情報"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/important/typhoon"
-    },
-    {
       "id": "www-okinawastory-jp-news-tourism-4728",
       "category": "nature",
       "date": "2026-09-26",
@@ -618,6 +642,30 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4728"
+    },
+    {
+      "id": "www-okinawastory-jp-news-important-typhoon",
+      "category": "nature",
+      "date": "2026-09-26",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2026.09.25 台風第26号情報",
+        "en": "2026.09.25 台風第26号情報",
+        "zh": "2026.09.25 台風第26号情報",
+        "ko": "2026.09.25 台風第26号情報"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/important/typhoon"
     },
     {
       "id": "www-naha-navi-or-jp-sitepage-transportation",
@@ -1098,54 +1146,6 @@
         "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://visitokinawajapan.com/discover/world-heritage-top"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-traditional-culture",
-      "category": "culture",
-      "date": "2026-08-20",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Traditional Culture",
-        "en": "Traditional Culture",
-        "zh": "Traditional Culture",
-        "ko": "Traditional Culture"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
-        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://visitokinawajapan.com/discover/traditional-culture"
-    },
-    {
-      "id": "visitokinawajapan-com-discover-food-and-longevity",
-      "category": "food",
-      "date": "2026-08-20",
-      "sourceName": {
-        "ja": "Visit Okinawa Japan",
-        "en": "Visit Okinawa Japan",
-        "zh": "Visit Okinawa Japan",
-        "ko": "Visit Okinawa Japan"
-      },
-      "title": {
-        "ja": "Food & Longevity",
-        "en": "Food & Longevity",
-        "zh": "Food & Longevity",
-        "ko": "Food & Longevity"
-      },
-      "summary": {
-        "ja": "Visit Okinawa Japanから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Visit Okinawa Japan. Check the official page for details.",
-        "zh": "从 Visit Okinawa Japan 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Visit Okinawa Japan에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://visitokinawajapan.com/discover/food-and-longevity"
     }
   ]
 }
