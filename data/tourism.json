@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-07",
+    "updatedAt": "2026-10-08",
     "sourceCount": 3
   },
   "places": [
@@ -428,6 +428,30 @@
   ],
   "updates": [
     {
+      "id": "www-okinawastory-jp-news-tourism-4037",
+      "category": "nature",
+      "date": "2026-10-08",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.10.08 観光ニュース 10月の沖縄ってまだ泳げるの？実はベストシーズン？",
+        "en": "NEW 2026.10.08 観光ニュース 10月の沖縄ってまだ泳げるの？実はベストシーズン？",
+        "zh": "NEW 2026.10.08 観光ニュース 10月の沖縄ってまだ泳げるの？実はベストシーズン？",
+        "ko": "NEW 2026.10.08 観光ニュース 10月の沖縄ってまだ泳げるの？実はベストシーズン？"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4037"
+    },
+    {
       "id": "www-okinawastory-jp-news-tourism-4730",
       "category": "nature",
       "date": "2026-10-06",
@@ -692,6 +716,30 @@
       "url": "https://www.okinawastory.jp/news/tourism/4713"
     },
     {
+      "id": "www-naha-navi-or-jp-event",
+      "category": "event",
+      "date": "2026-09-29",
+      "sourceName": {
+        "ja": "Naha Navi",
+        "en": "Naha Navi",
+        "zh": "Naha Navi",
+        "ko": "Naha Navi"
+      },
+      "title": {
+        "ja": "那覇市のイベント",
+        "en": "那覇市のイベント",
+        "zh": "那覇市のイベント",
+        "ko": "那覇市のイベント"
+      },
+      "summary": {
+        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
+        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.naha-navi.or.jp/event/"
+    },
+    {
       "id": "www-okinawastory-jp-news-tourism-4723",
       "category": "nature",
       "date": "2026-09-29",
@@ -738,30 +786,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/tourism/4724"
-    },
-    {
-      "id": "www-naha-navi-or-jp-event",
-      "category": "event",
-      "date": "2026-09-29",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "那覇市のイベント",
-        "en": "那覇市のイベント",
-        "zh": "那覇市のイベント",
-        "ko": "那覇市のイベント"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
-        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.naha-navi.or.jp/event/"
     },
     {
       "id": "www-naha-navi-or-jp-sightseeing",
@@ -1122,30 +1146,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/notice/4628"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4720",
-      "category": "nature",
-      "date": "2026-08-28",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
-        "en": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
-        "zh": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演",
-        "ko": "NEW 2026.08.28 観光ニュース 44年の時を経て今蘇る、幻のオペラ「沖縄物語」沖縄初上演"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4720"
     }
   ]
 }
