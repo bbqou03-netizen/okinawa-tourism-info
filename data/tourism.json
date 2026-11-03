@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-03",
     "sourceCount": 3
   },
   "places": [
@@ -427,6 +427,54 @@
     }
   ],
   "updates": [
+    {
+      "id": "www-okinawastory-jp-news-important-4729",
+      "category": "nature",
+      "date": "2026-11-03",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "2026.11.02 【高速道路】沖縄道リニューアル工事のお知らせ",
+        "en": "2026.11.02 【高速道路】沖縄道リニューアル工事のお知らせ",
+        "zh": "2026.11.02 【高速道路】沖縄道リニューアル工事のお知らせ",
+        "ko": "2026.11.02 【高速道路】沖縄道リニューアル工事のお知らせ"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/important/4729"
+    },
+    {
+      "id": "www-okinawastory-jp-news-tourism-4743",
+      "category": "culture",
+      "date": "2026-11-03",
+      "sourceName": {
+        "ja": "Okinawa Story",
+        "en": "Okinawa Story",
+        "zh": "Okinawa Story",
+        "ko": "Okinawa Story"
+      },
+      "title": {
+        "ja": "NEW 2026.11.02 観光ニュース 沖縄の街歩きがもっと楽しくなる！街並みに隠れた文化を発見",
+        "en": "NEW 2026.11.02 観光ニュース 沖縄の街歩きがもっと楽しくなる！街並みに隠れた文化を発見",
+        "zh": "NEW 2026.11.02 観光ニュース 沖縄の街歩きがもっと楽しくなる！街並みに隠れた文化を発見",
+        "ko": "NEW 2026.11.02 観光ニュース 沖縄の街歩きがもっと楽しくなる！街並みに隠れた文化を発見"
+      },
+      "summary": {
+        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
+        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
+        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
+        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
+      },
+      "url": "https://www.okinawastory.jp/news/tourism/4743"
+    },
     {
       "id": "www-okinawastory-jp-news-tourism-4046",
       "category": "event",
@@ -1098,54 +1146,6 @@
         "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
       },
       "url": "https://www.okinawastory.jp/news/important/typhoon"
-    },
-    {
-      "id": "www-okinawastory-jp-news-tourism-4728",
-      "category": "nature",
-      "date": "2026-09-26",
-      "sourceName": {
-        "ja": "Okinawa Story",
-        "en": "Okinawa Story",
-        "zh": "Okinawa Story",
-        "ko": "Okinawa Story"
-      },
-      "title": {
-        "ja": "NEW 2026.09.25 観光ニュース 夜も楽しもう！地元の居酒屋で味わう沖縄の魅力",
-        "en": "NEW 2026.09.25 観光ニュース 夜も楽しもう！地元の居酒屋で味わう沖縄の魅力",
-        "zh": "NEW 2026.09.25 観光ニュース 夜も楽しもう！地元の居酒屋で味わう沖縄の魅力",
-        "ko": "NEW 2026.09.25 観光ニュース 夜も楽しもう！地元の居酒屋で味わう沖縄の魅力"
-      },
-      "summary": {
-        "ja": "Okinawa Storyから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Okinawa Story. Check the official page for details.",
-        "zh": "从 Okinawa Story 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Okinawa Story에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.okinawastory.jp/news/tourism/4728"
-    },
-    {
-      "id": "www-naha-navi-or-jp-sitepage-transportation",
-      "category": "nature",
-      "date": "2026-09-17",
-      "sourceName": {
-        "ja": "Naha Navi",
-        "en": "Naha Navi",
-        "zh": "Naha Navi",
-        "ko": "Naha Navi"
-      },
-      "title": {
-        "ja": "沖縄の交通手段",
-        "en": "沖縄の交通手段",
-        "zh": "沖縄の交通手段",
-        "ko": "沖縄の交通手段"
-      },
-      "summary": {
-        "ja": "Naha Naviから収集した観光関連リンクです。公式ページで詳細を確認してください。",
-        "en": "A tourism-related link collected from Naha Navi. Check the official page for details.",
-        "zh": "从 Naha Navi 收集的观光相关链接。请在官方页面确认详细信息。",
-        "ko": "Naha Navi에서 수집한 관광 관련 링크입니다. 공식 페이지에서 자세한 내용을 확인해 주세요."
-      },
-      "url": "https://www.naha-navi.or.jp/sitepage/transportation/"
     }
   ]
 }
